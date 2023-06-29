@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Simple HTML5 Website</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <h1>My Simple HTML5 Website</h1>
+  <p>This is a simple HTML5 website.</p>
+  <p>It has a heading, a paragraph, and a link.</p>
+  <a href="https://www.google.com">Google</a>
+</body>
+</html>
